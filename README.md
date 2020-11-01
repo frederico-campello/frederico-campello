@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, boas-vindas!
 
-<!--
-**frederico-campello/frederico-campello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Frederico Mendonça Campello, tenho 26 anos e sou de Belo Horizonte/MG :brazil: <br/>
+Atualmente estudo Desenvolvimento de Software na Trybe, onde aprendo tanto hard quanto soft skills.
 
-Here are some ideas to get you started:
+## Principais tecnologias :man_technologist:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front-end: React com Redux, Context API e Hooks.
+- Back-end: Node com Express; arquiteturas MVC e MSC.
+- Bancos de dados: SQL (MySQL) e NoSQL (MongoDB).
+
+## Projeto - Star Wars
+
+[Code](https://github.com/frederico-campello/talentos-digitais-localiza)
+
+[Deployment](https://project-starwars-react-redux-91fzh46to.vercel.app/)
+
+### Contato
+
+[Linkedin](https://www.linkedin.com/in/frederico-campello/)
